@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">298475209395-4vb687v32f9d4b10ilp71iqobkg3dt5b.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">298475209395</string>
+    <string name="google_api_key" translatable="false">AIzaSyD6HFgNOhBdUiTkkmWV4j1QvueP8M52BbI</string>
+    <string name="google_app_id" translatable="false">1:298475209395:android:5226ad6c2e21a972b726c6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD6HFgNOhBdUiTkkmWV4j1QvueP8M52BbI</string>
+    <string name="google_storage_bucket" translatable="false">animaliya-risfat.appspot.com</string>
+    <string name="project_id" translatable="false">animaliya-risfat</string>
+</resources>

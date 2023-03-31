@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "298475209395",
+    "project_id": "animaliya-risfat",
+    "storage_bucket": "animaliya-risfat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298475209395:android:5226ad6c2e21a972b726c6",
+        "android_client_info": {
+          "package_name": "com.risfat.animaliya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298475209395-4vb687v32f9d4b10ilp71iqobkg3dt5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6HFgNOhBdUiTkkmWV4j1QvueP8M52BbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298475209395-4vb687v32f9d4b10ilp71iqobkg3dt5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298475209395-4s60h1giugld4rt4khi79vebmsbkmhjn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.animalapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
